@@ -1,6 +1,6 @@
-# Project_4_ToDoList
+# Project_3_ToDoList
 
-https://mellerh.github.io/Project_4_ToDoList/
+https://mellerh.github.io/Project_3_ToDoList/
 
 Проект - список дел.
 
